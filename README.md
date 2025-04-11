@@ -1,12 +1,12 @@
 
 <div>
+<img src="https://raw.githubusercontent.com/bennnzo/bennnzo/main/assets/readme_image.png" alt="Readme Image">
 <a href="https://ben-portfolio-green.vercel.app/?talent=coder" target="_blank">
-<img src="https://raw.githubusercontent.com/bennnzo/bennnzo/main/assets/portfolio-button.png" alt="Porfolio Button">
+<img src="https://raw.githubusercontent.com/bennnzo/bennnzo/main/assets/portfolio-button.png" alt="Porfolio Button" border="0">
 </a>
 <a href="https://live-f1.com" target="_blank">
 <img src="https://raw.githubusercontent.com/bennnzo/bennnzo/main/assets/live-f1-button.png" alt="Live F1 Button">
 </a>
-<img src="https://raw.githubusercontent.com/bennnzo/bennnzo/main/assets/readme_image.png" alt="Readme Image">
 </div>
 
 <!-- <div style="display:flex;gap:0.5rem;">
